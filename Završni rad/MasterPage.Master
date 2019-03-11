@@ -1,0 +1,121 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Završni_rad.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>FC Barcelona</title>
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+    <style type="text/css">
+        .auto-style2 {
+            width: 170px;
+        }
+
+        .auto-style3 {
+            text-align: center;
+            width: 140px;
+        }
+
+        .auto-style4 {
+            text-align: right;
+        }
+         body {
+                background-image: url('/Images/Camp Nou 1.jpg');
+                background-image: linear-gradient(to bottom, rgba(255,255,255,0.7) 0%,rgba(255,255,255,0.7) 100%), url('/Images/Camp Nou 1.jpg');
+                background-repeat: no-repeat;
+                background-size: 100%;
+                background-attachment: fixed;
+            }
+        #myBtn {
+            display: none;
+            position: fixed;
+            bottom: 20px;
+            right: 30px;
+            z-index: 99;
+            font-size: 28px;
+            border: none;
+            outline: none;
+            background-color: darkblue;
+            color: white;
+            cursor: pointer;
+            padding: 14px;
+            border-radius: 4px;
+        }
+
+            #myBtn:hover {
+                background-color: #555;
+            }
+
+    </style>
+</head>
+<body>
+    <button onclick="topFunction()" id="myBtn"><i class="fas fa-arrow-alt-circle-up"></i></button>
+    <form id="form1" runat="server">
+        <div style="background-color: #8EB8FD">
+            <table style="background-position: 0px 0px; background-image: url('/Images/Naslovna3.png'); ">
+                <tr style="width:1200px">
+                    <td style="height: 50px; width: 100px;">
+                        <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/Grb.png" Width="151%" Height="106px" ImageAlign="Middle"/>
+                    </td>
+                    <td style="width: 250px; height: 50px; padding-left: 20px;">
+                        <h1 style="font-family: 'Comic Sans MS'; font-weight: bold; color: #DBDBDB; text-shadow: 2px 2px 8px #FF0000; font-size: 35px;"> FC Barcelona </h1>
+                    </td>
+                    <td style="border: 3px none #000080; width: 100px; height: 50px; padding-left: 60px;" class="auto-style4">
+                        <a href="Naslovna.aspx" style="border-style: none; font-family: 'Comic Sans MS'; text-decoration: none; color: #DBDBDB; font-weight: bold; font-size: 22px; text-shadow: 0 0 13px #FF0000;">Naslovna</a>
+                    </td>
+                    <td style="border: 3px none #000080; width: 100px; height: 50px;" class="auto-style4">
+                        <a style="color:#DBDBDB; font-family: 'Comic Sans MS'; text-decoration: none; font-weight: bold; font-size: 22px; text-shadow: 0 0 13px #FF0000;" href="Igrači.aspx">Igrači</a>
+                    </td>
+                    <td style="border: 3px none #000080; width: 100px; font-weight: bold;" class="auto-style4">
+                        <a href="Trener.aspx" style="font-family: 'Comic Sans MS'; color: #DBDBDB; text-decoration: none; font-size: 22px; text-shadow: 0 0 13px #FF0000;">Trener</a>
+                    </td>
+                    <td style="border: 3px none #000080; width: 100px;" class="auto-style4">
+                        <a href="Trofeji.aspx" style="color: #DBDBDB; font-family: 'comic Sans MS'; text-decoration: none; font-weight: bold; font-size: 22px; text-shadow: 0 0 13px #FF0000;">Trofeji</a>
+                    </td>
+                    <td style="border: 3px none #000080; width: 100px;" class="auto-style4">
+                        <a href="Stadion.aspx" style="text-decoration: none; color: #DBDBDB; font-family: 'comic Sans MS'; font-weight: bold; font-size: 22px; text-shadow: 0 0 13px #FF0000;">Stadion</a>
+                    </td>
+                    <td style="border: 3px none #000080; width: 100px;" class="auto-style4">
+                        <a href="Povijest.aspx" style="color: #DBDBDB; text-decoration: none; font-family: 'comic Sans MS'; font-weight: bold; font-size: 22px; text-shadow: 0 0 13px #FF0000; padding-left: 20px;";>Povijest</a>
+                    </td>
+                    <td style="width: 350px">
+                        <asp:Image ID="Image2" runat="server" Height="67px" ImageAlign="Right" ImageUrl="~/Images/FC Barcelona BF.png" Width="74px" />
+                    </td>
+                    <td style="font-family: 'Comic Sans MS'; font-size: 16px; font-weight:bold; text-shadow: 0 0 3px #FF0000; padding-left: 10px;" class="auto-style2">
+                        <h3 style="color: #DBDBDB";> FC Barcelona <br />
+                             Fans Club </h3>
+                    </td>
+                    <td style="border: 3px none #000080; " class="auto-style3">
+                        <a href="https://www.facebook.com/barcafansclub1899/">
+                            <asp:Image ID="Image3" runat="server" Height="29px" ImageUrl="~/Images/Facebook.png" Width="28px" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    <script>
+        window.onscroll = function () { scrollFunction() };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                document.getElementById("myBtn").style.display = "block";
+            } else {
+                document.getElementById("myBtn").style.display = "none";
+            }
+        }
+
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+    </script>
+
+</body>
+</html>

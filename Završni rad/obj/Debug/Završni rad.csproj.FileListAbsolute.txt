@@ -1,0 +1,112 @@
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\Završni rad.dll.config
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\Završni rad.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\Završni rad.pdb
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\csc.exe
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\csc.exe.config
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\csc.rsp
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\csi.exe
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\csi.exe.config
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\csi.rsp
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.AppContext.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Collections.Immutable.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Console.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.IO.Compression.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.IO.FileSystem.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.IO.Pipes.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Reflection.Metadata.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Security.AccessControl.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Security.Claims.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.ValueTuple.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Xml.XPath.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\vbc.exe
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\vbc.exe.config
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\vbc.rsp
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\VBCSCompiler.exe
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\roslyn\VBCSCompiler.exe.config
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\obj\Debug\Završni rad.csprojAssemblyReference.cache
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\obj\Debug\Završni rad.csproj.CoreCompileInputs.cache
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\obj\Debug\Završni rad.csproj.CopyComplete
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\obj\Debug\Završni rad.dll
+D:\Matej Forjan\4. razred\Završni\Završni rad\Završni rad\obj\Debug\Završni rad.pdb
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\Završni rad.dll.config
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\Završni rad.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\Završni rad.pdb
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\csc.exe
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\csc.exe.config
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\csc.rsp
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\csi.exe
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\csi.exe.config
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\csi.rsp
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.AppContext.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Collections.Immutable.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Console.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.IO.Compression.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.IO.FileSystem.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.IO.Pipes.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Reflection.Metadata.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Security.AccessControl.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Security.Claims.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.ValueTuple.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Xml.XPath.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\vbc.exe
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\vbc.exe.config
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\vbc.rsp
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\VBCSCompiler.exe
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\roslyn\VBCSCompiler.exe.config
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\obj\Debug\Završni rad.csprojAssemblyReference.cache
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\obj\Debug\Završni rad.csproj.CoreCompileInputs.cache
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\obj\Debug\Završni rad.csproj.CopyComplete
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\obj\Debug\Završni rad.dll
+D:\Matej Forjan\4. razred\Završni rad\Završni rad\Završni rad\obj\Debug\Završni rad.pdb

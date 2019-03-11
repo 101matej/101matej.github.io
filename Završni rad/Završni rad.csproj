@@ -1,0 +1,240 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{12B848F0-7289-4376-8E5F-E3BF9F1AF13B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Završni_rad</RootNamespace>
+    <AssemblyName>Završni rad</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Igrači.aspx" />
+    <Content Include="Images\Alba.png" />
+    <Content Include="Images\Alena.png" />
+    <Content Include="Images\Arthur.png" />
+    <Content Include="Images\Barcelona vs Real.png" />
+    <Content Include="Images\Bartomeu.jpg" />
+    <Content Include="Images\Boateng.png" />
+    <Content Include="Images\Busquets.png" />
+    <Content Include="Images\Camp Nou - danas.jpg" />
+    <Content Include="Images\Camp Nou - prošlost.jpg" />
+    <Content Include="Images\Camp Nou 1.jpg" />
+    <Content Include="Images\Cillessen.png" />
+    <Content Include="Images\CopaMacaya.jpg" />
+    <Content Include="Images\Coutinho.png" />
+    <Content Include="Images\Dembele.png" />
+    <Content Include="Images\Eva duarte kup.png" />
+    <Content Include="Images\EValverde.jpg" />
+    <Content Include="Images\Facebook.png" />
+    <Content Include="Images\Fairs kup.png" />
+    <Content Include="Images\FC Barcelona BF.png" />
+    <Content Include="Images\Grb.png" />
+    <Content Include="Images\Guardiola.png" />
+    <Content Include="Images\Jaon Gamper.jpg" />
+    <Content Include="Images\Katalonska liga.png" />
+    <Content Include="Images\Katalonska liga2.png" />
+    <Content Include="Images\Katalonski kup.png" />
+    <Content Include="Images\Katalonski superkup.png" />
+    <Content Include="Images\Kubala.jpg" />
+    <Content Include="Images\Kup kralja.png" />
+    <Content Include="Images\Kup pobjednika kupova.png" />
+    <Content Include="Images\La Liga.png" />
+    <Content Include="Images\Latin kup.png" />
+    <Content Include="Images\Lenglet.png" />
+    <Content Include="Images\Liga prvaka.png" />
+    <Content Include="Images\LSuarez.png" />
+    <Content Include="Images\Malcom.png" />
+    <Content Include="Images\Maradona.png" />
+    <Content Include="Images\Mediteranska liga.png" />
+    <Content Include="Images\Messi.png" />
+    <Content Include="Images\Murillo.png" />
+    <Content Include="Images\Naslovna3.png" />
+    <Content Include="Images\Paulino.jpg" />
+    <Content Include="Images\Pique.png" />
+    <Content Include="Images\Povijest grba.jpg" />
+    <Content Include="Images\Prva Liga prvaka.png" />
+    <Content Include="Images\Prvi stadion.png" />
+    <Content Include="Images\Pyrenees kup.png" />
+    <Content Include="Images\Rafinha.png" />
+    <Content Include="Images\Rakitic.png" />
+    <Content Include="Images\Roberto.png" />
+    <Content Include="Images\Samper.png" />
+    <Content Include="Images\Semedo.png" />
+    <Content Include="Images\Superkup Španjolske.png" />
+    <Content Include="Images\Svjetsko klupsko prvenstvo.png" />
+    <Content Include="Images\ter Stegen.png" />
+    <Content Include="Images\Todibo.png" />
+    <Content Include="Images\UEFA Superkup.png" />
+    <Content Include="Images\Umtiti.png" />
+    <Content Include="Images\UNICEF.jpg" />
+    <Content Include="Images\Valverde.png" />
+    <Content Include="Images\Vermaelen.png" />
+    <Content Include="Images\Vidal.png" />
+    <Content Include="Images\Španjolski liga kup.png" />
+    <Content Include="Naslovna.aspx" />
+    <Content Include="Povijest.aspx" />
+    <Content Include="Stadion.aspx" />
+    <Content Include="Trener.aspx" />
+    <Content Include="Trofeji.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Igrači.aspx.cs">
+      <DependentUpon>Igrači.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Igrači.aspx.designer.cs">
+      <DependentUpon>Igrači.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Naslovna.aspx.cs">
+      <DependentUpon>Naslovna.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Naslovna.aspx.designer.cs">
+      <DependentUpon>Naslovna.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Povijest.aspx.cs">
+      <DependentUpon>Povijest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Povijest.aspx.designer.cs">
+      <DependentUpon>Povijest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stadion.aspx.cs">
+      <DependentUpon>Stadion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Stadion.aspx.designer.cs">
+      <DependentUpon>Stadion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Trener.aspx.cs">
+      <DependentUpon>Trener.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Trener.aspx.designer.cs">
+      <DependentUpon>Trener.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Trofeji.aspx.cs">
+      <DependentUpon>Trofeji.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Trofeji.aspx.designer.cs">
+      <DependentUpon>Trofeji.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MasterPage.Master" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49891</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:49891/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
